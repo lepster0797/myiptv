@@ -31,11 +31,5 @@ http://vthanh.utako.moe/11/index.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png"
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Logo_of_TV1_%28Malaysia%29.svg"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Logo_of_TV1_%28Malaysia%29.svg" group-title="Malaysia",TV1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Logo_of_TV1_%28Malaysia%29.svg"
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" group-title="Malaysia",TV2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg"
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-#EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="Malaysia",TV6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg"
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-name="Sukan RTM tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="Malaysia",Sukan RTM tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png"
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
