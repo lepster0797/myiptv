@@ -53,3 +53,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-id="SukanRTM.my",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#UnitedKingdom1
+#EXTINF:-1 tvg-id="",Comedy Channel (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-name="Sky 1" tvg-language="English" tvg-country="UK" tvg-id="Sky 1" tvg-logo="http://www.radioandtelly.co.uk/images/sky1logo.gif" group-title="Entertainment",Sky 1 (Entertainment) (UK) (English)
+http://iptv-supplier.com:8000/live/mad/mad/289.m3u8
