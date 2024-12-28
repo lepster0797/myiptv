@@ -37,19 +37,14 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #Malaysia1
 #EXTINF:-1 tvg-id="AstroAwani.my",Astro Awani (720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="TV1.my",TV1 
+#EXTINF:-1 tvg-id="TV1.my",TV1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Logo_of_TV1_%28Malaysia%29.svg"
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1 tvg-id="TV2.my",TV2 
+#EXTINF:-1 tvg-id="TV2.my",TV2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" 
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-#EXTINF:-1 tvg-id="TV6.my",TV6 
+#EXTINF:-1 tvg-id="TV6.my",TV6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg"
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-id="SukanRTM.my",Sukan RTM tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png"
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#UnitedKingdom1
-#EXTINF:-1 tvg-id="",Comedy Channel tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="Entertainment",Comedy Central (Entertainment) (UK) (English)
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky 1" tvg-language="English" tvg-country="UK" tvg-id="Sky 1" tvg-logo="http://www.radioandtelly.co.uk/images/sky1logo.gif" group-title="Entertainment",Sky 1 (Entertainment) (UK) (English)
-http://iptv-supplier.com:8000/live/mad/mad/289.m3u8
